@@ -73,3 +73,13 @@ The code is primarily divided into two parts:
 * **Root Window Setup**:
     * Initializes the main (first) window that asks the user to select the method and dimensions.
     * Uses `ttk` (themed tkinter widgets) for a cleaner, more modern look.
+<img src = "Results/Interface.png">
+<img src = "Results/Eq_interface.png">
+
+### Output
+
+<img src = "Results/Full_detailes.png">
+
+# Author
+
+Mazen Sehsah
